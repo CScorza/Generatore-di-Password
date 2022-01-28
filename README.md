@@ -1,8 +1,10 @@
 # Generatore-di-Password
 Generatore di Password
-
-Per Windows 
+#
+Per Windows
+#
 https://www.python.org/downloads/
+#
 cd Generatore Pass
 python3 generatorpass.py
 
